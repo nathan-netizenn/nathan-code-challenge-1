@@ -1,0 +1,14 @@
+
+* {
+    padding: 0;
+    border: 1px blue rgba(18, 12, 12);
+    border-radius: 7px;
+    width: 540px;
+    margin: auto;
+  }
+
+  body {
+    background-color: blueviolet rgb(130 ,120, 115);
+    height: -11vh;
+  }
+
